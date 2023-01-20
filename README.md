@@ -1,3 +1,3 @@
-<p align=center>Hi, my name is Jake and I am a aspiring developer currently working to try and bypass school blocking systems. </p>
+<p align=center>Hi, my name is Jake and I am a aspiring developer currently working on node-js and self-hosting. </p>
 <p>ㅤ</p>
 <p align=center> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> <img  height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain.svg" />
