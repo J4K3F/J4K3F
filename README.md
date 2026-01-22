@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Howdy! I'm Jake</b> — homelabber, tinkerer, self-hosting enthusiast, and currently working on getting certs (CCNA & A+ in progress)
+  <b>Howdy! I'm Jake</b> - homelabber, tinkerer, self-hosting enthusiast, and currently working on getting certs (CCNA & A+ in progress)
 </p
 
 <p align="center">
