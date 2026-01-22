@@ -14,6 +14,7 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/ubiquiti-unifi.png" alt="UniFi" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/cloudflare.png" alt="Cloudflare" />
 </p>
 
 <p align="center">
